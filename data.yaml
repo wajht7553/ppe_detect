@@ -1,0 +1,4 @@
+nc: 10
+test: C:\Users\wajah\Desktop\PPE_Detection\css-data\test
+train: C:\Users\wajah\Desktop\PPE_Detection\css-data\train
+val: C:\Users\wajah\Desktop\PPE_Detection\css-data\valid
